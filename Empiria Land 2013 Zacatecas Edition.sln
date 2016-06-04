@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zacatecas Web Site", "intranet\Zacatecas Web Site.csproj", "{43C2501B-6867-4804-86AF-4778A2A68480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zacatecas Extranet Web Site", "extranet\Zacatecas Extranet Web Site.csproj", "{844F4FA8-B973-4C32-ADA0-884C815D2E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zacatecas Web Services", "ws\Zacatecas Web Services.csproj", "{2443D295-580C-4664-AE13-E56296EEF020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C2501B-6867-4804-86AF-4778A2A68480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C2501B-6867-4804-86AF-4778A2A68480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C2501B-6867-4804-86AF-4778A2A68480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C2501B-6867-4804-86AF-4778A2A68480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844F4FA8-B973-4C32-ADA0-884C815D2E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844F4FA8-B973-4C32-ADA0-884C815D2E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844F4FA8-B973-4C32-ADA0-884C815D2E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844F4FA8-B973-4C32-ADA0-884C815D2E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2443D295-580C-4664-AE13-E56296EEF020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2443D295-580C-4664-AE13-E56296EEF020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2443D295-580C-4664-AE13-E56296EEF020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2443D295-580C-4664-AE13-E56296EEF020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
